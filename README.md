@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jose Ortega</h1>
-<h2 align="center">IA and Web Developer</h3>
+<h2 align="center">AI and Web Developer</h3>
 
 In the final stage of the University Of London in Computer Science
 
