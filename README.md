@@ -2,16 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Jose Ortega</h1>
-<h2 align="center">AI and Web Developer</h3>
+<h3 align="center">Full-Stack Developer passionate about scalable systems and automation</h3>
 
-In the final stage of the University Of London in Computer Science
+Computer Science graduate from the University of London with experience building REST APIs, backend services, automation workflows, and modern web applications using Node.js, NestJS, React, PostgreSQL, and AWS.
 
-*   🌍  I'm based in Quito, Ecuador (but willing to go anywhere)
-*   ✉️  You can contact me at [joseortega9988@gmail.com](mailto:joseortega9988@gmail.com)
-*   🚀  I'm currently working on [A Task Manager App](http://github.com/joseortega9988/Task-Manager-APP)
-*   🧠  I'm learning Intelligent Signal Processing and Natural Language
-*   🤝  I'm open to collaborating on in Web developing or on IA proyects
-*   ⚡  I love cooking
+* 🌎 Based in Quito, Ecuador
+* 📫 Contact: [joseortega9988@gmail.com](mailto:joseortega9988@gmail.com)
+* 🚀 Building scalable and efficient software solutions
+* 🧠 Currently exploring NLP, AI, and intelligent systems
+* 🤝 Open to collaborations and new opportunities
+* ⚡ I enjoy climbing, fitness, and creating new projects
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
